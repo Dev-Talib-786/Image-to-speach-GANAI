@@ -34,7 +34,7 @@ This application creates a unique audio narrative from any image through a three
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/tech-jarvis/Gan_based_image_to-speech.git
+   git clone https://github.com/Dev-Talib-786/Image-to-speach-GANAI.git
    ```
 
 2. **Install Dependencies**
